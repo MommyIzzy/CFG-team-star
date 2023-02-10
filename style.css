@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4f4f4f;
+    text-align: var(--mdb-body-text-align);
+    background-color: rgb(228, 224, 216);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    display: block;
+    box-sizing: border-box;
+}
+.mb-6 {
+    margin-bottom: 0.5rem;
+}
+.fas {
+    font-family: "Font Awasome 6 Free";
+    font-weight: 900;
+}
+.navbar-expand-lg .nabar-collapse {
+    display: flex;
+    flex-basis: auto;
+}
+.navbar-collapse {
+    flex-grow: 1;
+    align-items: center;
+}
+
+.collapse: :not();
+
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+}
+.mb-lg-0 {
+    margin-bottom: 0;
+}
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+.me-auto {
+    margin-right: auto;
+}
+.container-fluid {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 0.75rem;
+    padding-right: 0.75rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg-white {
+    opacity: 1;
+    background-color: rgb(228, 224, 216);
+}
+.nav-link {
+        display: block;
+        padding: 0.5rem;
+        color: rgba(0,0,0,0.55);
+        text-decoration: none;
+}
+.nav-link:hover {
+    color:black;
+    text-decoration: none;
+}
+.navbar-nav {
+    display: flex;
+    flex direction: column;
+    list-style: none;
+} 
+.navbar-toggler {
+    padding: 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    color: rgba(0,0,0,0.55);
+    border-radius: 0.25rem;
+}
+.navbar {
+padding-top: 0.5625rem;
+}
+.d-flex {
+    display: flex;
+}
+.bg-image {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: center;
+}
+.text-center {
+    text-align: center;
+}
+.p-5 {
+    padding: 1rem;
+}
+.position-absolute {
+    position:absolute
+}
+video {
+    object-fit: contain;
+}
+.mask {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+.svg {
+    vertical-align: bottom;
+}
+.text-black {
+    opacity: 1;
+    color: #4f4f4f;
+}
+.mb-3 {
+    margin-bottom: 1rem;
+    margin-left: 10rem;
+}
+h1 {
+    font-size: 3.5rem;
+}
+h2 {
+    font-size: 2.2rem;
+    margin-left: 10rem;
+}
+h5 {
+    font-size: 1.25rem;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gutter:
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    margin-left: 10px;
+}
